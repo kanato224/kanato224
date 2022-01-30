@@ -30,8 +30,6 @@ Android、iOSなどのガジェット、
 
 猫
 
-です。
-
 <!--
 **kanato224/kanato224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
